@@ -1,4 +1,4 @@
-# Blogging Analytics Dashboard
+# Blogging Analytics Dashboard Project
 
 A code about building an analytics dashboard for a blog.
 
